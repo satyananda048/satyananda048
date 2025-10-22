@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**satyananda048/satyananda048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi satya nanda here 👋
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e98045b7-e4e5-4436-b041-a6b61a48ac2a" />
+<img width="219" height="230" alt="image" src="https://github.com/user-attachments/assets/b3cd6cfc-2a4b-4571-8fa5-d262009c27a7" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e8975c32-1455-439b-ac90-8185e6e012cc" />
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/9aef7f80-48b7-4481-851d-df8c4d432be3" />
+<img width="286" height="176" alt="image" src="https://github.com/user-attachments/assets/9083c8f5-9605-40c0-a968-e4b5d9c716c3" />
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/35856937-007d-4ae0-937d-7565075d6379" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2dfed2a6-51d6-444e-9f26-e46cde706506" />
+<img width="269" height="187" alt="image" src="https://github.com/user-attachments/assets/021e0045-be6a-4988-b46f-3d6943c61534" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/b2d7e36b-c82f-4670-8d7f-bbd03ceebb37" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/4a45cd68-4798-4474-95b2-cb6b60d0a236" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/b766fbcc-fc18-4a21-a351-089df34e1231" />
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/a012aa23-9f43-4d36-b24e-ac451613ab40" />
